@@ -486,6 +486,7 @@ footer{
 .footer-wrapper{
     display: flex;
     gap: 64px;  
+    padding-bottom: 64px;
 }
 
 @media(max-width: 900px){
